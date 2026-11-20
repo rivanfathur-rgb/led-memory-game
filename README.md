@@ -5,6 +5,12 @@ Game mengingat berbasis **ESP32** dan **4 LED**. ESP32 menyalakan LED dengan uru
 ![Foto rangkaian](docs/wiring.jpg)
 <!-- [Ganti dengan foto rangkaianmu] -->
 
+## Demo
+
+![Demo game mengingat ESP32](docs/demo.gif)
+
+*LED menyala sesuai urutan, lalu jawaban ditekan lewat tombol di halaman web.*
+
 ## Fitur
 
 - Urutan LED acak, bertambah satu LED setiap naik level
