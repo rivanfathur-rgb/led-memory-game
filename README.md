@@ -2,12 +2,11 @@
 
 Game mengingat berbasis **ESP32** dan **4 LED**. ESP32 menyalakan LED dengan urutan acak, lalu pemain mengulang urutan itu lewat **tombol di halaman web lokal**. Makin tinggi level, makin panjang urutan yang harus diingat.
 
-![Foto rangkaian](docs/wiring.jpg)
-<!-- [Ganti dengan foto rangkaianmu] -->
-
 ## Demo
 
-![Demo game mengingat ESP32](docs/demo.gif)
+| Rangkaian | Gameplay |
+|---|---|
+| ![Demo LED](docs/wiring.jpg) | ![Demo web](docs/demo.gif) |
 
 *LED menyala sesuai urutan, lalu jawaban ditekan lewat tombol di halaman web.*
 
