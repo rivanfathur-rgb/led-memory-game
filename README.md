@@ -58,7 +58,7 @@ Semua GND LED disatukan dan disambung ke pin GND ESP32.
 
 ## Cara Menjalankan
 
-1. Nyalakan ESP32. Keempat LED akan berkedip berurutan sekali.
+1. Nyalakan ESP32,
 2. Sambungkan HP atau laptop ke WiFi:
    - SSID: `MemoryGame`
    - Password: `12345678`
@@ -92,7 +92,7 @@ Semua pengaturan ada di bagian atas file `.ino`:
 - [ ] Menyimpan skor terbaik di memori ESP32
 - [ ] Pilihan tingkat kesulitan
 - [ ] Tambahan LED (5 atau 6)
-- [ ] Menyempurnakan Tampilan Web
+- [ ] Beralih dari web ke tombol pushbutton, menambahkan Casing
 
 ## Struktur Repo
 
@@ -103,10 +103,6 @@ Semua pengaturan ada di bagian atas file `.ino`:
 │   └── wiring.jpg
 └── README.md
 ```
-
-## Lisensi
-
-[Pilih lisensi, misalnya MIT]
 
 ## Pembuat
 
